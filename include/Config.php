@@ -2,8 +2,8 @@
 /**
  * Database configuration
  */
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_USERNAME', 'adminSuCeKe3');
+define('DB_PASSWORD', 'jVqDkpPA3bnP');
 define('DB_HOST', '127.13.89.2:3306');
 define('DB_NAME', 'climbing_app');
 
