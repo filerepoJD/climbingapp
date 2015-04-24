@@ -6,7 +6,7 @@
  * versie 27/01/2015
  */
 class DbHandler {
-
+// testje
     private $conn;
 
     function __construct() {
