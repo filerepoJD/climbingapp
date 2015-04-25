@@ -4,7 +4,8 @@ RewriteEngine On
 # If you need to use the `RewriteBase` directive, it should be the
 # absolute physical path to the directory that contains this htaccess file.
 #
-RewriteBase http://climbingapp-filerepo.rhcloud.com/klimapp/V1/
+RewriteBase /klimapp/V1/
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [QSA,L]
+RewriteRule ^(.*)$ %{ENV:BASE}index.php [QSA,L]
+AllowOverride All
 

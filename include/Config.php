@@ -5,7 +5,7 @@
 define('DB_USERNAME', 'adminSuCeKe3');
 define('DB_PASSWORD', 'jVqDkpPA3bnP');
 define('DB_HOST', '127.13.89.2:3306');
-define('DB_NAME', 'climbing_app');
+define('DB_NAME', 'climbingapp');
 
 define('USER_CREATED_SUCCESSFULLY', 0);
 define('USER_CREATE_FAILED', 1);

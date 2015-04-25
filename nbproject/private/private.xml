@@ -4,9 +4,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp/www/klimapp/V1/index.php</file>
-            <file>file:/C:/wamp/www/klimapp/V1/include/Config.php</file>
-            <file>file:/C:/wamp/www/klimapp/V1/include/DbHandler.php</file>
+            <file>file:/C:/Users/Joachim/mylibgit/klimapp/V1/include/DbConnect.php</file>
+            <file>file:/C:/Users/Joachim/mylibgit/klimapp/V1/include/DbHandler.php</file>
+            <file>file:/C:/Users/Joachim/mylibgit/klimapp/V1/index.php</file>
+            <file>file:/C:/Users/Joachim/mylibgit/klimapp/V1/include/Config.php</file>
+            <file>file:/C:/Users/Joachim/mylibgit/klimapp/V1/.htaccess</file>
         </group>
     </open-files>
 </project-private>
