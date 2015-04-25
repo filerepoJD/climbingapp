@@ -7,5 +7,5 @@ RewriteEngine On
 RewriteBase /klimapp/V1/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.*)$ %{ENV:BASE}index.php [QSA,L]
-AllowOverride All
+
 
