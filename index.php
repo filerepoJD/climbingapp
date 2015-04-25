@@ -4,10 +4,10 @@
 *versie 27/01/2015
 *
 */
+require_once(dirname(__FILE__).'/include/PassHash.php');
+require_once(dirname(__FILE__).'/include/DbHandler.php');
+require(dirname(__FILE__).'.././libs/Slim/Slim.php');
 
-require_once '/include/PassHash.php';
-require_once '/include/DbHandler.php';
-require '.././libs/Slim/Slim.php';
 
 \Slim\Slim::registerAutoloader();
 
